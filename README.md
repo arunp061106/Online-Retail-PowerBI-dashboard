@@ -1,2 +1,29 @@
 # Online-Retail-PowerBI-dashboard
 Power BI dashboard analyzing online retail sales
+# Online Retail Sales Analysis – Power BI
+
+## 📊 Project Overview
+This project analyzes online retail transaction data using Power BI to identify sales trends, top-performing countries, customers, and products.
+
+## 🛠 Tools Used
+- Power BI Desktop
+- Microsoft Excel
+
+## 📌 Key Features
+- KPI cards for Total Revenue, Total Orders, and Total Customers
+- Top 10 Countries by Revenue
+- Top Products by Revenue
+- Monthly Sales Trend
+- Interactive slicers (Date, Country)
+
+## 📈 Insights
+- United Kingdom contributes the highest share of total revenue
+- Sales show an increasing trend in later months
+- A small number of products contribute to most of the revenue
+
+## 📂 Files Included
+- `.pbix` Power BI project file
+- Dashboard screenshots
+
+## 👤 Author
+Your Name

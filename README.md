@@ -6,7 +6,8 @@ This project analyzes online retail transaction data using Power BI to identify 
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](screenshots/OnlineRetailSalesPowerBIAnalysis.png)
+![Dashboard Screenshot](<img width="765" height="433" alt="Online Retail Sales PowerBI Analysis" src="https://github.com/user-attachments/assets/1704160b-f729-425b-a026-0d58dffe96fa" />
+)
 
 
 ## 🛠 Tools Used

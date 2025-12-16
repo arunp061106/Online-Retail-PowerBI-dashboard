@@ -4,6 +4,11 @@ Power BI dashboard analyzing online retail sales
 ## 📊 Project Overview
 This project analyzes online retail transaction data using Power BI to identify sales trends, top-performing countries, customers, and products.
 
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](screenshots/OnlineRetailSalesPowerBIAnalysis.png)
+
+
 ## 🛠 Tools Used
 - Power BI Desktop
 - Microsoft Excel

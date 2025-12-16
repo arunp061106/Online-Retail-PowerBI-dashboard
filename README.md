@@ -22,8 +22,11 @@ This project analyzes online retail transaction data using Power BI to identify 
 - A small number of products contribute to most of the revenue
 
 ## 📂 Files Included
-- `.pbix` Power BI project file
-- Dashboard screenshots
+- Online retail sales - An PowerBI analysis
+- a screenshot of Analysis Dashboard
 
-## 👤 Author
-Your Name
+## Author 
+- Arun Karthick P
+  (AMBITIOUS DATA ANALYST)
+ B.TECH CSE , SRM INSTITUTE OF SCIENCE AND TECHNOLOGY , TRICHY.
+  
